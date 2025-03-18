@@ -7,7 +7,7 @@ public class Department {
     // Constructor
     Department(String deptName, String inchargeName, int no_of_labs) {
         this.deptName = deptName;
-        this.inchargeName = inchargeName; // Fixed typo
+        this.inchargeName = inchargeName;
         this.no_of_labs = no_of_labs;
     }
 
